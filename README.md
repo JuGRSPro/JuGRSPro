@@ -11,6 +11,10 @@
 - **My App Abeille** (Kotlin) : A personal sports performance tracking app (running and strength training exercises)
 - **Personnal Blog** (Symfony) : A school project topic to cover a wide range of Symfony functionalities
 
+- 🌱 I’m currently self-learning **Unreal Engine**
+
+- 📫 How to reach me **pro.juliangorsse@gmail.com**
+
 <h3 align="center">Languages and Tools:</h3>
 
 <h4 align="left">Programming Languages</h4>
