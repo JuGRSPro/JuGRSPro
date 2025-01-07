@@ -2,18 +2,14 @@
 <h3 align="center">Web and software developer</h3>
 
 - 🌱 I’m currently self-learning **Unreal Engine**
-
 - 📫 How to reach me **pro.juliangorsse@gmail.com**
 - ℹ️ <a href="https://www.linkedin.com/in/julian-gorsse-249370345/">LinkedIn</a>
 
 <h3 align="center">Private repository projetc</h3>
--  **Morpion Game** (JAVA) : A variation of the Tic-Tac-Toe game for up to 4 players
+
+- **Morpion Game** (JAVA) : A variation of the Tic-Tac-Toe game for up to 4 players
 - **My App Abeille** (Kotlin) : A personal sports performance tracking app (running and strength training exercises)
 - **Personnal Blog** (Symfony) : A school project topic to cover a wide range of Symfony functionalities
-
-- 🌱 I’m currently self-learning **Unreal Engine**
-
-- 📫 How to reach me **pro.juliangorsse@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
 
