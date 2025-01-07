@@ -4,7 +4,7 @@
 - 🌱 I’m currently self-learning **Unreal Engine**
 
 - 📫 How to reach me **pro.juliangorsse@gmail.com**
-- ℹ️ LinkedIn **https://www.linkedin.com/in/julian-gorsse-249370345/**
+- ℹ️ <a href="https://www.linkedin.com/in/julian-gorsse-249370345/">LinkedIn</a>
 
 
 <h3 align="center">Languages and Tools:</h3>
